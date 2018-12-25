@@ -265,7 +265,7 @@ class Document extends React.Component {
 export default Document;
 ```
 
-If you were using something like `styled-components`, and you need to wrap you entire app with some sort of additional provider or function, you can do this with `renderPage()`.
+If you were using something like `styled-components`, and you need to wrap you entire app with some sort of additional provider or function, you can do this with `renderPage()` See example `basicStyledComponent`.
 
 ```js
 // ./src/Document.js
